@@ -1,5 +1,5 @@
 # geen
-A dedicated page that clarifies a concept by explicitly defining what it is not.
+_A dedicated page that clarifies a concept by explicitly defining what it is not._
 
 Soms is de beste manier om misverstanden uit de wereld te helpen niet door een standaarddefinitie te geven, maar door de grenzen af te bakenen. Deze pagina helpt bezoekers om sneller tot de kern te komen door veelvoorkomende aannames en verwarringen direct uit te sluiten.
 
